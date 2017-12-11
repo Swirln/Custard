@@ -1,2 +1,2 @@
-# -Custard
+# Custard
 Custom launcher for RBXRevival
